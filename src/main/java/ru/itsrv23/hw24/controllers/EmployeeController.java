@@ -1,12 +1,12 @@
-package ru.itsrv23.hw_2_4.controllers;
+package ru.itsrv23.hw24.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import ru.itsrv23.hw_2_4.entity.Employee;
-import ru.itsrv23.hw_2_4.service.EmployeeServiceImpl;
+import ru.itsrv23.hw24.entity.Employee;
+import ru.itsrv23.hw24.service.EmployeeServiceImpl;
 
 @RestController
 @RequestMapping("/employee")

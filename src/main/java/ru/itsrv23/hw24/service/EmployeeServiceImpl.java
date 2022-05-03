@@ -1,10 +1,10 @@
-package ru.itsrv23.hw_2_4.service;
+package ru.itsrv23.hw24.service;
 
 import org.springframework.stereotype.Service;
-import ru.itsrv23.hw_2_4.entity.Employee;
-import ru.itsrv23.hw_2_4.exceptions.EmployeeFullBookExceptions;
-import ru.itsrv23.hw_2_4.exceptions.EmployeeIsExistsException;
-import ru.itsrv23.hw_2_4.exceptions.EmployeeNotFoundException;
+import ru.itsrv23.hw24.entity.Employee;
+import ru.itsrv23.hw24.exceptions.EmployeeFullBookExceptions;
+import ru.itsrv23.hw24.exceptions.EmployeeIsExistsException;
+import ru.itsrv23.hw24.exceptions.EmployeeNotFoundException;
 
 import java.util.Arrays;
 

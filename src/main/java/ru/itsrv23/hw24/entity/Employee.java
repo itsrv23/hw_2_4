@@ -1,4 +1,4 @@
-package ru.itsrv23.hw_2_4.entity;
+package ru.itsrv23.hw24.entity;
 
 import java.util.Objects;
 

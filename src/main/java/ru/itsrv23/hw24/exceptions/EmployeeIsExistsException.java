@@ -1,4 +1,4 @@
-package ru.itsrv23.hw_2_4.exceptions;
+package ru.itsrv23.hw24.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

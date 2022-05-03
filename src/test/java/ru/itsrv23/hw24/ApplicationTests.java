@@ -1,4 +1,4 @@
-package ru.itsrv23.hw_2_4;
+package ru.itsrv23.hw24;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

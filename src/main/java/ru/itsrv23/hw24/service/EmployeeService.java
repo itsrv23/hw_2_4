@@ -1,7 +1,7 @@
-package ru.itsrv23.hw_2_4.service;
+package ru.itsrv23.hw24.service;
 
 
-import ru.itsrv23.hw_2_4.entity.Employee;
+import ru.itsrv23.hw24.entity.Employee;
 
 public interface EmployeeService {
     Employee addEmployee(String firstName, String lastName);
